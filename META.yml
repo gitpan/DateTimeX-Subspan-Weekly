@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               DateTimeX-Subspan-Weekly
-version:            0.04
+version:            0.05
 abstract:           Determine whether event falls within weekly recurring range
 author:
     - James E Keenan (jkeenan@cpan.org)
